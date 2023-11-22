@@ -42,5 +42,5 @@ header {
 .lista{
     color: rgb(255, 255, 255);
     text-align: justify;
-    background-color: linear-gradient(rgb(239, 8, 193), pink);
+    background-image: linear-gradient(rgb(239, 8, 193), pink);
 }
