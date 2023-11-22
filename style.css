@@ -38,3 +38,11 @@ body {
 header { 
     position:static;
 }
+
+ol{
+    color: rgb(255, 255, 255);
+}
+
+ul{
+    color: rgb(255, 255, 255);
+}
