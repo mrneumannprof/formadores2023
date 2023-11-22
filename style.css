@@ -39,12 +39,8 @@ header {
     position:static;
 }
 
-ol{
+.lista{
     color: rgb(255, 255, 255);
     text-align: justify;
-}
-
-ul{
-    color: rgb(255, 255, 255);
-    text-align: justify;
+    background-color: linear-gradient(rgb(239, 8, 193), pink);
 }
