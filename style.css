@@ -41,8 +41,10 @@ header {
 
 ol{
     color: rgb(255, 255, 255);
+    text-align: justify;
 }
 
 ul{
     color: rgb(255, 255, 255);
+    text-align: justify;
 }
